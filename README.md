@@ -26,6 +26,12 @@ git clone https://github.com/andrebalconi/LightsOut.git
 C# LightsOut
 ```
 
+# Time sheet
+```bash
+January 25 (04:00H) - Analysis and development of game operating rules
+January 26 (03:00H) - Construction of the Main Layout with the option of different difficulty levels
+January 27 (03:00H) - Final layout tweaks , functional tests and Deploy
+```
 
 # Author
 André Balconi
